@@ -34,6 +34,9 @@ The project includes:
 
 * KiCad
 * GitHub
+* 
+Note:
+Standard KiCad symbol libraries and footprint libraries were used for this project. No custom symbol or footprint libraries were created.
 
 ### Deliverables Included
 
