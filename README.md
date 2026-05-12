@@ -83,7 +83,6 @@ powerful is C++
 ## Deliverables Included
 
 - Source Code
-- Program Output
 - Code Comments and Explanation
 
 ---
