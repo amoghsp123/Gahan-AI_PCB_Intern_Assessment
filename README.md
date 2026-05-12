@@ -13,11 +13,12 @@ The project includes:
 - UART sensor interface
 - Status LED circuitry
 - PCB layout, routing, and Gerber generation
+- Reverse order of words program
 - Embedded C LED blinking program
 
 ---
 
-# Task 1 – STM32 USB Sensor Module PCB Design
+# STM32 USB Sensor Module PCB Design
 
 ## Features
 
@@ -47,6 +48,43 @@ Standard KiCad symbol libraries and footprint libraries were used for this proje
 - Gerber Files
 - Drill Files
 - Bill of Materials (BOM)
+
+---
+
+# Task 1 – Reverse Order of Words Program
+
+## Objective
+
+To develop a program that reverses the order of words in a given string.
+
+## Features
+
+- Accepts string input from the user
+- Splits the sentence into words
+- Reverses the order of words
+- Displays the reversed sentence
+
+## Language Used
+
+- Python
+
+## Sample Input
+
+```text
+C++ is powerful
+```
+
+## Sample Output
+
+```text
+powerful is C++
+```
+
+## Deliverables Included
+
+- Source Code
+- Program Output
+- Code Comments and Explanation
 
 ---
 
@@ -90,7 +128,7 @@ Slow → Medium → Fast → Repeat
 # Repository Structure
 
 ```text
-Task1_PCB_Design/
+PCB_Design/
 │
 ├── Schematic_Files/
 ├── PCB_Layout_Files/
@@ -98,6 +136,10 @@ Task1_PCB_Design/
 ├── Drill_Files/
 ├── BOM/
 └── Screenshots/
+
+Task1/
+│
+├── reverse_words.py
 
 Task3/
 │
