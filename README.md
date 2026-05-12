@@ -79,16 +79,10 @@ Slow → Medium → Fast → Repeat
 ## Tools Used
 
 - Arduino IDE
-- Arduino UNO (Simulation)
-
-## Language Used
-
-- Embedded C / Arduino C++
 
 ## Deliverables Included
 
 - Embedded C Source Code
-- Arduino Simulation
 - Code Comments and Explanation
 
 ---
