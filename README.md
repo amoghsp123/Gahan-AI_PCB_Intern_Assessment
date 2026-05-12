@@ -60,7 +60,37 @@ Task1_PCB_Design/
 
 Task3/
 
-* Additional assessment task files
+Task 3 – Embedded C LED Blinking Program
+
+Objective
+To implement an Embedded C program for controlling LED blinking at different predefined speeds in a continuous cycle.
+
+Features
+Slow speed blinking:
+5 sec ON, 5 sec OFF
+
+Medium speed blinking:
+2.5 sec ON, 2.5 sec OFF
+
+Fast speed blinking:
+1 sec ON, 1 sec OFF
+
+Automatic speed sequence cycling:
+Slow → Medium → Fast → Repeat
+
+Each speed mode runs for two complete ON/OFF cycles before switching.
+
+Tools Used
+Arduino IDE
+Arduino UNO (Simulation)
+
+Language Used
+Embedded C / Arduino C++
+
+Deliverables Included
+Embedded C Source Code
+Arduino Simulation
+Code Comments and Explanation
 
 ---
 
